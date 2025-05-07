@@ -20,3 +20,10 @@ The goal is to convert the given Figma design into a responsive and pixel-perfec
 ---
 
 Feel free to explore, modify and use it for learning purposes!
+
+
+
+
+website :  1)   https://bennettfeely.com/clippy/
+
+
