@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+html,body{
+
+    height: 100%;
+    width: 100%;
+    }
+
+
+
+
+
+.main{
+
+width: 100%;
+height: 100%;
+display: flex;
+background-color: blue;
+align-items: center;
+justify-content: space-evenly;
+flex-wrap: wrap;
+gap: 10px;
+}
+
+.nav{
+    width: 250px;
+    height: 250px;
+    background-color: brown;
+    border: 4px solid black;
+
+}
+
+
+@media (max-width: 600px) {
+
+    .main {
+        height: auto;
+        padding: 10px;
+    }
+
+    .nav {
+        width: 90%;
+        height: 200px;
+    }
+
+    .fast {
+        padding: 10px 0;
+    }
+
+    .chak {
+        width: 250px;
+        height: 250px;
+    }
+}
+
+
+
+
+.fast{
+    background-color: rgb(116, 143, 107);
+    white-space: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+
+}
+
+.chak{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(103, 194, 0);
+    display: inline-block;
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
