@@ -12,6 +12,13 @@ The goal is to convert the given Figma design into a responsive and pixel-perfec
 - Font & Color Matching as per the Figma design
 
 ## 📁 Project Structure
+https://assingment-two-sooty.vercel.app/
+https://htmlfigma.vercel.app/
+
+
+
+
+
 
 
 ## 📸 Design Reference
