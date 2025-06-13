@@ -57,6 +57,7 @@ The goal is to convert the given Figma design into a **responsive** and **pixel-
 - [Headless UI - Combobox](https://headlessui.com/react/combobox)  
 - [Flowbite Components](https://flowbite.com/)  
 - [Mamba UI - Article](https://mambaui.com/components/article)
+- [Mamba UI - Article](https://www.reactbits.dev/components/)
 
 ---
 
