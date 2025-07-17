@@ -44,6 +44,8 @@ The goal is to convert the given Figma design into a **responsive** and **pixel-
 
 ## 🔧 Next.js UI Libraries & Components
 
+- [https://pagedone.io/blocks].
+
 - [React Components](https://reactcomponents.com/?type=components&sortBy=name)  
 - [Chakra UI - Heading](https://chakra-ui.com/docs/components/heading)  
 - [Material UI - Cards](https://mui.com/material-ui/react-card/)  
