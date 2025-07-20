@@ -31,7 +31,7 @@ To convert selected Figma designs into **responsive** and **pixel-perfect** webp
 - 🎨 [Assignment Copy (Figma)](https://www.figma.com/design/gaqVv6PO2KXkQCk5ibyw53/Assignment--Copy-?fuid=1136002004941987107)  
 - 🎨 [MJ Ventures Brand Guidelines](https://www.figma.com/design/bz3kRNo5jpbeRvzZMz25wO/MJ-Ventures-Brand-Guidelines--FINAL---Copy---Copy-?node-id=2205-373&p=f&t=UaoRNzEjZk1PxEVj-0)  
 - 🎨 [Isotion IT Solutions Website](https://www.figma.com/design/sS3jP7pLWvIqCh3oWmKxsT/Isotion---IT-Solutions-Website?node-id=0-1&p=f&t=WElz4SJd5xItmUEa-0)
-
+  -  https://www.figma.com/design/c0gvhzQAZF8O3jhBrcLHbh/SMIT---Web-Batch-14?node-id=330-762&t=aEYGHQ75jPpWjnvF-0
 ---
 
 ## 🧰 Useful Resources
