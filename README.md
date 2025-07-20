@@ -62,6 +62,7 @@ To convert selected Figma designs into **responsive** and **pixel-perfect** webp
 - 📘 [Mamba UI - Article](https://mambaui.com/components/article)  
 - 💡 [ReactBits Components](https://www.reactbits.dev/components/)
 - [https://uiverse.io/)
+- https://lightswind.com/components/scroll-stack?component=installation
 
 ---
 
