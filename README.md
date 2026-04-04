@@ -81,3 +81,73 @@ To convert selected Figma designs into **responsive** and **pixel-perfect** webp
 This project is open for learning, inspiration, and contribution.  
 Feel free to fork and build on top of it.  
 **Happy Coding! 💻✨**
+
+
+
+## 🔧 Next.js & React UI Libraries (Optional for Reference)
+
+Yeh sab **free & open-source** libraries hain jo Next.js/React projects mein bohot tez aur beautiful UIs banane ke liye use hoti hain. Main ne inhe categories mein divide kiya hai taake asani ho. Aksar developers **shadcn/ui + Tailwind + Radix** combo use karte hain kyunke yeh lightweight aur fully customizable hota hai.
+
+### 🏆 Top Trending Free Libraries (2026)
+
+- **[shadcn/ui](https://ui.shadcn.com/)** — Sabse popular copy-paste components. Radix UI + Tailwind pe built. Zero runtime overhead, full customization.
+- **[Radix UI](https://www.radix-ui.com/)** — Headless, accessible primitives. shadcn/ui is built on top of this.
+- **[HeroUI (formerly NextUI)](https://heroui.com/)** — Beautiful, fast, accessible components with Tailwind + React Aria. Dark mode aur animations bohot achi.
+- **[Mantine](https://mantine.dev/)** — Modern, highly customizable with 100+ components + hooks. Excellent theming aur dark mode.
+- **[Chakra UI](https://chakra-ui.com/)** — Simple, accessible, prop-based styling. Bohot flexible aur themeable.
+- **[daisyUI](https://daisyui.com/)** — Pure CSS components for Tailwind. 35+ themes, no JS dependency — bohot lightweight.
+- **[Headless UI](https://headlessui.com/)** — Tailwind Labs ka. Unstyled accessible components (menus, dialogs, tabs etc.).
+- **[Magic UI](https://magicui.design/)** — shadcn/ui pe built animated components with Framer Motion. "Wow" factor ke liye best.
+- **[Aceternity UI](https://ui.aceternity.com/)** — Stunning animated landing page components with Tailwind + Framer Motion.
+- **[TailGrids](https://tailgrids.com/)** — 100+ free Tailwind + React components aur blocks.
+
+### Full Design Systems (Comprehensive)
+
+- **[MUI (Material UI)](https://mui.com/)** — Google's Material Design. Bohot mature, enterprise level (Core free hai).
+- **[Ant Design](https://ant.design/)** — Rich components especially dashboards aur data-heavy apps ke liye.
+- **[PrimeReact](https://primereact.org/)** — 90+ rich components, good for complex UIs.
+- **[React Bootstrap](https://react-bootstrap.netlify.app/)** — Bootstrap components in React.
+- **[Semantic UI React](https://react.semantic-ui.com/)** — Semantic feel wale components.
+- **[Blueprint UI](https://blueprintjs.com/)** — Palantir ka, complex data apps ke liye strong.
+
+### Tailwind-First / Copy-Paste Libraries
+
+- **[Flowbite React](https://flowbite-react.com/)** — 100+ interactive Tailwind components.
+- **[Preline UI](https://preline.co/)** — Modern Tailwind components.
+- **[HyperUI](https://hyperui.dev/)** — Free Tailwind components (HTML + React ready).
+- **[Ripple UI](https://ripple-ui.com/)** — Lightweight Tailwind component library.
+- **[Tail Spark](https://tailspark.co)** — 300+ copy-paste Tailwind components.
+
+### Headless & Accessibility Focused
+
+- **[React Aria Components](https://react-spectrum.adobe.com/react-aria/components.html)** — Adobe ka powerful accessible primitives.
+- **[Ariakit](https://ariakit.org/)** — Accessible components.
+- **[Kibo UI](https://www.kibo-ui.com/)** — shadcn/ui ke gaps fill karta hai (niche components).
+
+### Dashboard & Data Heavy
+
+- **[Tremor](https://www.tremor.so/)** — Beautiful charts aur dashboard components.
+- **[React Suite](https://rsuitejs.com/)** — Enterprise dashboards ke liye.
+
+### Animation & Modern Effects
+
+- **[Framer Motion](https://www.framer.com/motion/)** — Smooth animations (kisi bhi library ke saath use karo).
+- **[Magic UI](https://magicui.design/)** & **[Aceternity UI](https://ui.aceternity.com/)** — Animated components.
+
+### Other Useful Free Libraries
+
+- **[Untitled UI React](https://untitledui.com/react)** — Large collection of open-source Tailwind components.
+- **[gluestack UI](https://gluestack.io/)** — Universal (web + React Native) type-safe components.
+- **[Tamagui](https://tamagui.dev/)** — High-performance universal UI.
+- **[ZenUI](https://github.com/zenui-labs/zenui-library-react)** — Minimal React UI library with Tailwind.
+- **[Orbit](https://orbit.kiwi/)** — Travel-oriented components.
+
+**Pro Tips (2026):**
+- **Landing pages / Marketing** → Aceternity UI + Magic UI + Framer Motion
+- **SaaS / Dashboards** → shadcn/ui + Tremor + TanStack Table
+- **Lightweight** → daisyUI + Headless UI
+- **Full control** → Radix UI + Tailwind
+- **Enterprise** → MUI ya Ant Design
+
+Sab libraries **free** hain (open-source). Agar Figma design ko convert kar rahe ho to **shadcn/ui** ya **HeroUI** se shuru karna bohot asan hota hai.
+
