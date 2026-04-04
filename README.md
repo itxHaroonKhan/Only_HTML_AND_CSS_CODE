@@ -151,3 +151,61 @@ Yeh sab **free & open-source** libraries hain jo Next.js/React projects mein boh
 
 Sab libraries **free** hain (open-source). Agar Figma design ko convert kar rahe ho to **shadcn/ui** ya **HeroUI** se shuru karna bohot asan hota hai.
 
+
+
+
+## 🔧 Next.js & React UI Libraries (Optional for Reference)
+
+Yeh sab **free & open-source** libraries hain. Main ne inhe categories mein divide kiya hai.
+
+### 🏆 Top Trending Free Libraries (2026)
+
+- **[shadcn/ui](https://ui.shadcn.com/)** — Copy-paste components, Tailwind + Radix UI.
+- **[Radix UI](https://www.radix-ui.com/)** — Headless accessible primitives.
+- **[HeroUI](https://heroui.com/)** — Beautiful, fast, accessible (formerly NextUI).
+- **[Mantine](https://mantine.dev/)** — 100+ components with excellent theming.
+- **[Chakra UI](https://chakra-ui.com/)** — Accessible & flexible.
+- **[daisyUI](https://daisyui.com/)** — Pure CSS components for Tailwind (lightweight).
+- **[Headless UI](https://headlessui.com/)** — Unstyled accessible components.
+- **[Magic UI](https://magicui.design/)** — Animated components with Framer Motion.
+- **[Aceternity UI](https://ui.aceternity.com/)** — Stunning animated landing components.
+
+### 🎨 Tailwind-First / Copy-Paste
+
+- **[Flowbite React](https://flowbite-react.com/)**, **[Preline UI](https://preline.co/)**, **[HyperUI](https://hyperui.dev/)**, **[TailGrids](https://tailgrids.com/)**
+
+### 🧩 Full Design Systems
+
+- **[MUI (Material UI)](https://mui.com/)**, **[Ant Design](https://ant.design/)**, **[PrimeReact](https://primereact.org/)**
+
+### ✨ 3D Animation & Immersive UI Libraries (New Addition)
+
+Yeh libraries real **3D scenes**, interactive models, animations, physics aur WebGL-based effects ke liye hain. Next.js mein `@react-three/fiber` bohot popular hai kyunke yeh Three.js ko React style mein use karne deta hai.
+
+- **[React Three Fiber (R3F)](https://docs.pmnd.rs/react-three-fiber)** — Sabse powerful aur recommended. Three.js ko React ke components mein convert karta hai. Declarative way mein 3D scenes banane ke liye best. Next.js ke saath perfect integration.
+- **[@react-three/drei](https://docs.pmnd.rs/drei)** — React Three Fiber ke liye helpers aur useful components (OrbitControls, Environment, Stars, Text, GLTF loader, animations, shaders etc.). Bohot saare ready-to-use 3D elements deta hai.
+- **[React Three Postprocessing](https://docs.pmnd.rs/react-three-postprocessing)** — Bloom, depth of field, glitch, noise jaise advanced visual effects add karne ke liye.
+- **[Framer Motion + React Three Fiber](https://www.framer.com/motion/)** — 3D objects ko smooth animate karne ke liye (gestures, scroll-triggered 3D animations).
+- **[React Spring](https://react-spring.dev/)** — Physics-based animations (3D objects ke liye bhi use hota hai).
+- **[Three.js](https://threejs.org/)** — Core library (R3F is built on top of this). Raw power ke liye.
+- **[@react-three/cannon](https://pmnd.rs/docs/cannon) or @react-three/rapier** — Physics (gravity, collisions, bouncing objects) add karne ke liye.
+- **[GLTF JSX Converter](https://gltf.pmnd.rs/)** — Blender/3D models ko React components mein convert karne ka tool (R3F ke saath bohot useful).
+
+**Pro Tip for 3D in Next.js (2026):**
+- **Landing pages / Hero sections** mein rotating product models, 3D backgrounds, interactive cards ke liye → **React Three Fiber + drei**
+- **Performance** ke liye Next.js ke `dynamic` import use karo with `{ ssr: false }`
+- Examples: Interactive globe, 3D portfolio, product configurator, particle systems, animated heroes.
+
+**Best Combo:** React Three Fiber + drei + Framer Motion + Tailwind
+
+Agar Figma design mein 3D elements hain to in libraries se bohot easily pixel-perfect immersive UI bana sakte ho.
+
+### Other Useful Free Libraries
+
+- **[Tremor](https://www.tremor.so/)** — Dashboards & charts
+- **[Untitled UI React](https://untitledui.com/react)**, **[gluestack UI](https://gluestack.io/)**, **[Tamagui](https://tamagui.dev/)**
+
+**Pro Tips (2026):**
+- Landing pages → Aceternity UI + Magic UI + React Three Fiber
+- SaaS/Dashboards → shadcn/ui + Tremor
+- 3D Heavy Projects → React Three Fiber ecosystem
