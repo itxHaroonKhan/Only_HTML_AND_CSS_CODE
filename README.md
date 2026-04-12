@@ -209,3 +209,4 @@ Agar Figma design mein 3D elements hain to in libraries se bohot easily pixel-pe
 - Landing pages → Aceternity UI + Magic UI + React Three Fiber
 - SaaS/Dashboards → shadcn/ui + Tremor
 - 3D Heavy Projects → React Three Fiber ecosystem
+  - https://chat.z.ai/
